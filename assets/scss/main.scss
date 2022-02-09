@@ -1,0 +1,14 @@
+* {
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+}
+@import './helper/variables';
+@import './helper/mixin';
+@import './helper/placeholder';
+@import './helper/extend';
+@import './helper/grid';
+@import './helper/nav';
+@import './helper/footer';
+@import './helper/animation';
